@@ -16,3 +16,6 @@ How do you keep the questions a-political?
 Did you use chatGPT to write the code?
   Despite using chatGPT to generate the questions, I try my best to do most of the coding myself, which means errors may occur. I do sometimes use chatGPT to solve some of my problems but for the most part I try to use my own skills
 
+How is this different to the test on politicalcompass.org?
+  The test used on politicalcompass.org has rather obviously biased statements and unjust weighing of the questions, it also frequently confuses economic left and right with cultural left and right. Although I intend for this to be an improvement on that test, it should also be known that the political compass test is absolutely my inspiration for this.
+
